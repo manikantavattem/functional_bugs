@@ -5,7 +5,7 @@
 
 
 # Replication Package
-This repository contains all the artifacts (including the dataset and the tool Regdroid) in our study.
+This repository contains all the artifacts (including the dataset and the tool Regdroid) in project.
 
 ## Directory Structure
 
