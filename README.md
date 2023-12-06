@@ -3,7 +3,6 @@
 [1] "An Empirical Study of Functional Bugs in Android Apps" by Yiheng Xiong, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He and Zhendong Su. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023).
 
 
-*You can find more about our work on testing/analyzing Android apps at this [website](https://tingsu.github.io/files/mobile-app-analysis.html)*.
 
 # Replication Package
 This repository contains all the artifacts (including the dataset and the tool Regdroid) in our study.
@@ -18,10 +17,6 @@ This repository contains all the artifacts (including the dataset and the tool R
              | --- start.py:                The entry of RegDroid, which accepts the parameters
              | --- regdroid.py              The main module of RegDroid
              | --- executor.py              The execution module of RegDroid
-
-## RegDroid
-
-### Getting Started
 
 
 #### Requirements
